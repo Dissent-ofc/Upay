@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ChromaDB vector store (re-generated on ingest)
+data/processed/chroma_db/
+data/unsorted_pdfs/needs_review/
+
+# Logs & temporary run data
+logs/*.jsonl
+*.log
+
+# Secrets and API Keys — NEVER COMMIT
+.env
+*.env
+.env.*
+.streamlit/secrets.toml
+
+# OS & Editor Cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
