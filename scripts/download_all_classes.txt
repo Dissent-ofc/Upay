@@ -1,0 +1,42 @@
+# Comprehensive Multi-Class Download List (Class 9, 10, 11, 12)
+# Format: url,Board,Grade,Subject,chapter_name
+
+# --- Class 9 Math ---
+https://archive.org/download/ncert-iemh1/iemh101.pdf,CBSE,Class9,Math,ch01_number_systems
+https://archive.org/download/ncert-iemh1/iemh102.pdf,CBSE,Class9,Math,ch02_polynomials
+https://archive.org/download/ncert-iemh1/iemh103.pdf,CBSE,Class9,Math,ch03_coordinate_geometry
+https://archive.org/download/ncert-iemh1/iemh106.pdf,CBSE,Class9,Math,ch06_lines_and_angles
+
+# --- Class 10 Science ---
+https://archive.org/download/ncert-jesc1/jesc101.pdf,CBSE,Class10,Science,ch01_chemical_reactions_and_equations
+https://archive.org/download/ncert-jesc1/jesc102.pdf,CBSE,Class10,Science,ch02_acids_bases_and_salts
+https://archive.org/download/ncert-jesc1/jesc106.pdf,CBSE,Class10,Science,ch06_life_processes
+https://archive.org/download/ncert-jesc1/jesc110.pdf,CBSE,Class10,Science,ch10_light_reflection_and_refraction
+https://archive.org/download/ncert-jesc1/jesc112.pdf,CBSE,Class10,Science,ch12_electricity
+
+# --- Class 10 Math ---
+https://archive.org/download/ncert-jemh1/jemh101.pdf,CBSE,Class10,Math,ch01_real_numbers
+https://archive.org/download/ncert-jemh1/jemh102.pdf,CBSE,Class10,Math,ch02_polynomials
+https://archive.org/download/ncert-jemh1/jemh103.pdf,CBSE,Class10,Math,ch03_pair_of_linear_equations
+https://archive.org/download/ncert-jemh1/jemh108.pdf,CBSE,Class10,Math,ch08_introduction_to_trigonometry
+
+# --- Class 11 Physics ---
+https://archive.org/download/ncert-keph1/keph101.pdf,CBSE,Class11,Physics,ch01_units_and_measurements
+https://archive.org/download/ncert-keph1/keph102.pdf,CBSE,Class11,Physics,ch02_motion_in_a_straight_line
+https://archive.org/download/ncert-keph1/keph104.pdf,CBSE,Class11,Physics,ch04_laws_of_motion
+https://archive.org/download/ncert-keph1/keph105.pdf,CBSE,Class11,Physics,ch05_work_energy_and_power
+
+# --- Class 11 Chemistry ---
+https://archive.org/download/ncert-kech1/kech101.pdf,CBSE,Class11,Chemistry,ch01_some_basic_concepts_of_chemistry
+https://archive.org/download/ncert-kech1/kech102.pdf,CBSE,Class11,Chemistry,ch02_structure_of_atom
+https://archive.org/download/ncert-kech1/kech103.pdf,CBSE,Class11,Chemistry,ch03_classification_of_elements
+
+# --- Class 12 Physics ---
+https://archive.org/download/ncert-leph1/leph101.pdf,CBSE,Class12,Physics,ch01_electric_charges_and_fields
+https://archive.org/download/ncert-leph1/leph102.pdf,CBSE,Class12,Physics,ch02_electrostatic_potential_and_capacitance
+https://archive.org/download/ncert-leph1/leph103.pdf,CBSE,Class12,Physics,ch03_current_electricity
+
+# --- Class 12 Math ---
+https://archive.org/download/ncert-lemh1/lemh101.pdf,CBSE,Class12,Math,ch01_relations_and_functions
+https://archive.org/download/ncert-lemh1/lemh102.pdf,CBSE,Class12,Math,ch02_inverse_trigonometric_functions
+https://archive.org/download/ncert-lemh1/lemh103.pdf,CBSE,Class12,Math,ch03_matrices

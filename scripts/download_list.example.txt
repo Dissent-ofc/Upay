@@ -1,0 +1,28 @@
+# Example download list for scripts/bulk_download.py
+#
+# Format (comma-separated, no spaces needed after commas):
+#   url,Board,Grade,Subject,chapter_filename_without_extension
+#
+# Lines starting with # are comments and are skipped.
+#
+# HOW TO GET MORE URLS YOURSELF:
+#   1. Go to https://archive.org/details/ncert-<bookcode> (e.g. ncert-jesc1
+#      for Class 10 Science, ncert-jemh1 for Class 10 Math).
+#   2. Click through to the file listing (or go straight to
+#      https://archive.org/download/ncert-<bookcode>).
+#   3. Each chapter is <bookcode><NN>.pdf — copy its link.
+#
+# NCERT book codes follow a pattern: first letter = class (e/f/g/h/i/j/k/l
+# roughly map to classes 6-12), rest identifies subject/book. Easiest way
+# to find a code: search "archive.org ncert class <N> <subject>".
+#
+# The rows below are VERIFIED to exist on archive.org as of this writing
+# (Class 9 Science, book code "iesc1"):
+
+https://archive.org/download/ncert-iesc1/iesc101.pdf,CBSE,Class9,Science,ch01_matter_in_our_surroundings
+https://archive.org/download/ncert-iesc1/iesc102.pdf,CBSE,Class9,Science,ch02_is_matter_around_us_pure
+https://archive.org/download/ncert-iesc1/iesc106.pdf,CBSE,Class9,Science,ch06_tissues
+https://archive.org/download/ncert-iesc1/iesc110.pdf,CBSE,Class9,Science,ch10_gravitation
+
+# Add more lines here for other chapters, subjects, classes, or boards, e.g.:
+# https://archive.org/download/ncert-jemh1/jemh101.pdf,CBSE,Class10,Math,ch01_real_numbers
