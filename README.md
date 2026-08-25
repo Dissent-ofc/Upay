@@ -1,9 +1,9 @@
-# Nivaran (निवारण) — AI for Equitable Education Access
+# Upay (उपाय) — AI for Equitable Education Access
 
 > **Theme**: Education, Language Access, and Personalized Learning  
 > **Challenge**: Build an AI system that closes the education access gap for students and teachers using open or public educational content as its knowledge base.
 
-*Nivaran* (meaning "resolution" or "remedy") is an open-source, curriculum-grounded AI tutoring and pedagogical intelligence platform. It connects a student's specific conceptual confusion to the exact textbook explanation, at the right grade level, in their native language—while giving teachers real-time diagnostic visibility into class-wide learning gaps.
+*Upay* (meaning "solution" or "remedy") is an open-source, curriculum-grounded AI tutoring and pedagogical intelligence platform. It connects a student's specific conceptual confusion to the exact textbook explanation, at the right grade level, in their native language—while giving teachers real-time diagnostic visibility into class-wide learning gaps.
 
 ---
 
@@ -59,8 +59,8 @@ graph TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Dissent-ofc/Nivaran.git
-cd Nivaran
+git clone https://github.com/Dissent-ofc/Upay.git
+cd Upay
 ```
 
 ### 2. Create and Activate Virtual Environment (Recommended)
@@ -110,7 +110,7 @@ The app will open in your browser at `http://localhost:8501`.
 ## Repository Structure
 
 ```
-Nivaran/
+Upay/
 ├── .streamlit/
 │   └── config.toml                  # Streamlit theme and performance configuration
 ├── data/

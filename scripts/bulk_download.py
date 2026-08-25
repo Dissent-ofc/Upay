@@ -1,6 +1,6 @@
 """
 Bulk-download textbook PDFs from a URL list and drop them straight into the
-Nivaran folder structure: data/raw_pdfs/<Board>/<Grade>/<Subject>/<name>.pdf
+Upay folder structure: data/raw_pdfs/<Board>/<Grade>/<Subject>/<name>.pdf
 
 WHERE TO GET THE URLS:
 NCERT's own site (ncert.nic.in) disallows automated crawling in its

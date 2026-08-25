@@ -1,5 +1,5 @@
 """
-Nivaran — Grounded AI Tutor & Pedagogical Intelligence Platform
+Upay — Grounded AI Tutor & Pedagogical Intelligence Platform
 Complete multilingual localized UI, adaptive practice evaluation, and teacher diagnostic dashboard.
 """
 
@@ -31,7 +31,7 @@ from src.retriever import list_available_filters
 
 # --- Page Setup ---
 st.set_page_config(
-    page_title="Nivaran | Grounded AI Tutor",
+    page_title="Upay | Grounded AI Tutor",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -39,7 +39,7 @@ st.set_page_config(
 # --- Internationalization (i18n) Dictionary ---
 I18N = {
     "English": {
-        "brand_name": "NIVARAN",
+        "brand_name": "UPAY",
         "brand_tagline": "AI for Equitable Education Access",
         "student_portal": "Student Learning Portal",
         "teacher_portal": "Teacher Diagnostic Hub",
@@ -113,7 +113,7 @@ I18N = {
         "ingest_success": "Successfully indexed {count} sections into {board}/{grade}/{subject}.",
     },
     "Hindi": {
-        "brand_name": "निवारण",
+        "brand_name": "उपाय",
         "brand_tagline": "समान और सुलभ शिक्षा के लिए एआई",
         "student_portal": "विद्यार्थी अध्ययन पोर्टल",
         "teacher_portal": "अध्यापक डैशबोर्ड",
@@ -187,7 +187,7 @@ I18N = {
         "ingest_success": "{count} खंड सफलतापूर्वक {board}/{grade}/{subject} में जोड़े गए।",
     },
     "Hinglish": {
-        "brand_name": "NIVARAN",
+        "brand_name": "UPAY",
         "brand_tagline": "AI for Equitable Education Access",
         "student_portal": "Student Learning Portal",
         "teacher_portal": "Teacher Diagnostic Hub",
